@@ -11,10 +11,10 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 
 ## Resources
 - Data Source: election_results.csv
-- Software: Python 3.7.6, Visual Studio Code, 
+- Software: Python 3.7.6, Visual Studio Code, 1.49
 
 ## Summary
-The analysys of the election show that:
+The analysis of the election show that:
 - There were 369,111 votes cast in the election.
 - The candidates were:
     - Charles Casper Stockham
@@ -28,6 +28,7 @@ The analysys of the election show that:
     - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
     
 ## Challenge Overview
+This challenge required coding and updating files in github using python3 in VS Code and Terminal.  A script was created to analyze csv file data to determine the above listed outcomes.
 
 ## Challenge Summary
-
+Module challenge included download & install of Python, Visual Studio Code and used Terminal native to Mac OS.  The challenge exercise included analysis of data using python and how to print the outcome to the terminal and in a text file.  It covered the python codes to load, open, read, create and write to file.  After the csv data file is opened, created counters to track each candidate's vote.  Python was also used to determine the percentage of votes for each candidate and finally the winner based on the populate or most votes.
