@@ -97,3 +97,10 @@ message_to_candidate = (
     f"You received {candidate_votes / total_votes * 100:.2f}% of the total votes.")
 
 print(message_to_candidate)
+
+#Import the datetime class from the datetime module.
+import datetime as dt
+#Use the now() attribute on the datetime class to get the present time
+now = dt.datetime.now()
+# print present time
+print("The time right now is ", now)
