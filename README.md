@@ -32,4 +32,7 @@ This challenge required coding and updating files in github using python3 in VS 
 
 ## Challenge Summary
 Module challenge included download & install of Python, Visual Studio Code and used Terminal native to Mac OS.  The challenge exercise included analysis of data using python and how to print the outcome to the terminal and in a text file.  It covered the python codes to load, open, read, create and write to file.  After the csv data file is opened, created counters to track each candidate's vote.  Python was also used to determine the percentage of votes for each candidate and finally the winner based on the populate or most votes.
+<<<<<<< HEAD
 
+=======
+>>>>>>> 97f4937e0183eb1e86d9fe219f23ec379d30d9ff
