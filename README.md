@@ -27,7 +27,7 @@ The analysis of the election show that:
 - The winner of the election was:
     - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
 
-![Election_Analysis_Results.png]  [https://github.com/EHuiMartinez/Election_Analysis/blob/main/analysis/Election_Analysis_Results.png]
+![Election_Analysis_Results.png]  (https://github.com/EHuiMartinez/Election_Analysis/blob/main/analysis/Election_Analysis_Results.png)
 
 ## Election-Audit Summary
 In summary, the script written in Python was able to successfully provide calculated information on election data.  The script can calculate the total election count, county vote breakdowns used to determine the county with the largest number of votes.  It can also calculate the election results in total number of votes and the percentage of votes for each candidate.  Based on the calculations on candiate votes and results, the script can also help to determine the winner of the election.  
